@@ -1,0 +1,66 @@
+[
+    {
+      "name": "Lamine Yamal",
+      "image": "https://cdn.britannica.com/16/277116-050-AE9CDB07/Lamine-Yamal-Scores-For-FC-Barcelona-In-LaLiga-2025-Clash-Against-Rayo-Vallecano-Madrid.jpg",
+      "team": "FC Barcelona",
+      "position": "Right Winger",
+      "rating": 90
+
+    },
+    {
+      "name": "Kylian Mbappé",
+      "image": "https://www.suarasurabaya.net/wp-content/uploads/2025/09/Mbappe-840x493.webp",
+      "team": "Real Madrid",
+      "position": "Forward",
+      "rating": 94
+    },
+    {
+      "name": "Erling Haaland",
+      "image": "https://media.gq-magazin.de/photos/5e2edbac0c5e3d00088fa8b4/16:9/w_2560%2Cc_limit/sport-haaland-koeln.jpg",
+      "team": "Manchester City",
+      "position": "Striker",
+      "rating": 93
+    },
+    {
+      "name": "Lionel Messi",
+      "image": "https://fifpro.org/media/1w0dfejt/lionel-messi_1.jpg?rxy=0.4619229519611197,0.19443102361750342&width=1600&height=1024&rnd=133770410615370000",
+      "team": "Inter Miami",
+      "position": "Forward",
+      "rating": 95
+    },
+    {
+      "name": "Cristiano Ronaldo",
+      "image": "https://assets.goal.com/images/v3/blt2aaca933046f8b00/Cristiano%20Ronaldo%20Portugal%202024%20(4).jpg?auto=webp&format=pjpg&width=3840&quality=60",
+      "team": "Al-Nassr",
+      "position": "Forward",
+      "rating": 92
+    },
+    {
+      "name": "Jude Bellingham",
+      "image": "https://media0.faz.net/ppmedia/w1240/aktuell/sport/740674589/1.7542044/16x9/mit-der-unbekuemmertheit-des.jpg",
+      "team": "Real Madrid",
+      "position": "Midfielder",
+      "rating": 91
+    },
+    {
+      "name": "Kevin De Bruyne",
+      "image": "https://i.eurosport.com/2022/04/27/3362756-68735388-2560-1440.jpg",
+      "team": "Manchester City",
+      "position": "Midfielder",
+      "rating": 92
+    },
+    {
+      "name": "Vinícius Júnior",
+      "image": "https://fifpro.org/media/fhxkcocj/imago1036849243h.jpg?rxy=0.44248162845529576,0.28445632196454546&width=1600&height=1024&rnd=133554938083930000",
+      "team": "Real Madrid",
+      "position": "Left Winger",
+      "rating": 91
+    },
+    {
+      "name": "Pedri",
+      "image": "https://www.diariopalentino.es/media/IMG/2025/2A70D518-C717-2D4F-DE35A4F6B8F11C90.JPG",
+      "team": "FC Barcelona",
+      "position": "Midfielder",
+      "rating": 89
+    }
+  ]
