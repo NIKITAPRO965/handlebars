@@ -26,8 +26,6 @@
     "parcel-transformer-handlebars": "^1.0.0"
   },
   "dependencies": {
-    "handlebars": "^4.7.8",
-    "parcel-plugin-handlebars-precompile": "^1.0.2",
-    "parcel-transformer-hbs": "^1.0.4"
+    "handlebars": "^4.7.8"
   }
 }

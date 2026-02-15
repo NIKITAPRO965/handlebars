@@ -1,6 +1,6 @@
-import football from "./football.json";
-import templatefootball from "./template-football.hbs"
-console.log(templatefootball);
+import data from "./data.json";
+import template from "./template.hbs"
+console.log(template);
 
 
 
@@ -20,4 +20,4 @@ function createItemsMarkUp (array) {
     listRef.innerHTML = item
 }
 
-createItemsMarkUp(football)
+createItemsMarkUp(data)
