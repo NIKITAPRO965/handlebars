@@ -4,7 +4,7 @@
   "description": "",
   "browserslist": "> 0.5%, last 2 versions, not dead",
   "scripts": {
-    "dev": "parcel src/index.html",
+    "dev": "npx parcel src/index.html",
     "build": "parcel build src/index.html --public-url /handlebars/",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
