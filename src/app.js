@@ -1,13 +1,13 @@
 import football from "./football.json";
 import templatefootball from "./template-football.hbs"
-// console.log(templatefootball);
+console.log(templatefootball);
 
 
 
 
 const listRef = document.querySelector(".list")
 // listRef.innerHTML = templatefootball({football})
-function createMarkUp (array) {
+function createItemsMarkUp (array) {
     const item = array.map(({name, image, team, position, rating}) => {
         return `<li class="${item}">
     <img class="images" src="${image}" width="300px" alt="${name}">
@@ -20,4 +20,4 @@ function createMarkUp (array) {
     listRef.innerHTML = item
 }
 
-createMarkUp(football)
+createItemsMarkUp(football)

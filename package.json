@@ -22,7 +22,8 @@
   "homepage": "https://github.com/NIKITAPRO965/handlebars#readme",
   "devDependencies": {
     "gh-pages": "^6.3.0",
-    "parcel": "^2.16.4"
+    "parcel": "^2.16.4",
+    "parcel-transformer-handlebars": "^1.0.0"
   },
   "dependencies": {
     "handlebars": "^4.7.8",
